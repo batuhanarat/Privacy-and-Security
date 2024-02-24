@@ -1,0 +1,109 @@
+****k = 20***
+
+Dataset: mini-adult1.csv
+DGHs: DGHs
+Random_Anonymizer Results:
+Cost_MD: 9199
+Cost_LM: 479.0000000000014
+Clustering_Anonymizer Results:
+Cost_MD: 7159
+Cost_LM: 352.023795648798
+Topdown_Anonymizer Results:
+Cost_MD: 8202
+Cost_LM: 400.14865967365915
+*******************************
+*******************************
+Dataset: mini-adult1-age-only.csv
+DGHs: DGHs2
+Random_Anonymizer Results:
+Cost_MD: 2000
+Cost_LM: 500.0
+Clustering_Anonymizer Results:
+Cost_MD: 740
+Cost_LM: 69.69696969696993
+Topdown_Anonymizer Results:
+Cost_MD: 1500
+Cost_LM: 247.47474747475084
+*******************************
+*******************************
+Dataset: mini-adult2.csv
+DGHs: DGHs
+Random_Anonymizer Results:
+Cost_MD: 3724
+Cost_LM: 194.50000000000009
+Clustering_Anonymizer Results:
+Cost_MD: 3124
+Cost_LM: 156.256993006993
+Topdown_Anonymizer Results:
+Cost_MD: 3470
+Cost_LM: 174.48717948717967
+*******************************
+*******************************
+Dataset: mini-adult2-age-only.csv
+DGHs: DGHs2
+Random_Anonymizer Results:
+Cost_MD: 800
+Cost_LM: 200.0
+Clustering_Anonymizer Results:
+Cost_MD: 380
+Cost_LM: 47.474747474747524
+Topdown_Anonymizer Results:
+Cost_MD: 600
+Cost_LM: 98.98989898989898
+*******************************
+*******************************
+
+****k = 100***
+
+Dataset: mini-adult1.csv
+DGHs: DGHs
+Random_Anonymizer Results:
+Cost_MD: 9619
+Cost_LM: 500.0
+Clustering_Anonymizer Results:
+Cost_MD: 9419
+Cost_LM: 480.0000000000008
+Topdown_Anonymizer Results:
+Cost_MD: 8619
+Cost_LM: 420.1541666666686
+*******************************
+*******************************
+Dataset: mini-adult1-age-only.csv
+DGHs: DGHs2
+Random_Anonymizer Results:
+Cost_MD: 2000
+Cost_LM: 500.0
+Clustering_Anonymizer Results:
+Cost_MD: 1400
+Cost_LM: 217.17171717171823
+Topdown_Anonymizer Results:
+Cost_MD: 1500
+Cost_LM: 247.47474747475084
+*******************************
+*******************************
+Dataset: mini-adult2.csv
+DGHs: DGHs
+Random_Anonymizer Results:
+Cost_MD: 3844
+Cost_LM: 200.0
+Clustering_Anonymizer Results:
+Cost_MD: 3844
+Cost_LM: 200.0
+Topdown_Anonymizer Results:
+Cost_MD: 3844
+Cost_LM: 200.0
+*******************************
+*******************************
+Dataset: mini-adult2-age-only.csv
+DGHs: DGHs2
+Random_Anonymizer Results:
+Cost_MD: 800
+Cost_LM: 200.0
+Clustering_Anonymizer Results:
+Cost_MD: 700
+Cost_LM: 149.49494949494957
+Topdown_Anonymizer Results:
+Cost_MD: 800
+Cost_LM: 200.0
+*******************************
+*******************************
